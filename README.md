@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="./assets/banner.gif" width="90%" alt="Taoist Coder Banner" />
+<img src="./assets/banner.gif" width="95%" alt="Taoist Coder Banner" />
 
 <br><br>
 
