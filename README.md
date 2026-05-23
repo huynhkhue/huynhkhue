@@ -20,10 +20,47 @@
 
 <br>
 
-## 🧘 About Me
+## About Me
 
-```text
-Name      : Huynhkhue
-Role      : Taoist Priest | Learner | Coder
-Focus     : Researching, studying code, building step by step
-Mindset   : Calm, curious, consistent
+**Name:** Huynhkhue  
+**Role:** Taoist Priest | Learner | Coder  
+**Focus:** Researching, studying code, building step by step  
+**Mindset:** Calm, curious, consistent  
+
+I love life, enjoy researching, and love studying code.  
+I believe growth comes from patience, curiosity, and daily practice.
+
+---
+
+## Current Focus
+
+- Learning programming step by step
+- Exploring web development
+- Building useful and creative projects
+- Improving through practice every day
+
+---
+
+## Taoist Coder Philosophy
+
+> Stay calm.  
+> Keep learning.  
+> Debug the chaos.  
+> Build something meaningful.
+
+---
+
+## My Coding State
+
+```python
+class TaoistCoder:
+    def __init__(self):
+        self.mind = "calm"
+        self.goal = "improve every day"
+        self.energy = "focused"
+
+    def practice(self):
+        return "learn -> build -> refine -> repeat"
+
+me = TaoistCoder()
+print(me.practice())
