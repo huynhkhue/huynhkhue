@@ -64,3 +64,25 @@ class TaoistCoder:
 
 me = TaoistCoder()
 print(me.practice())
+```
+
+---
+
+<div align="center">
+
+## Current Vibe
+
+`code` ✦ `focus` ✦ `discipline` ✦ `creativity` ✦ `growth`
+
+</div>
+
+---
+
+<div align="center">
+
+## Thanks for visiting
+
+Welcome to my digital space.  
+A place where code, curiosity, and creativity meet.
+
+</div>
