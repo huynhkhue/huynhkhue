@@ -1,12 +1,12 @@
 <div align="center">
 
-# ☯ Huynhkhue
+# ☯ Huynhkhue | Taoist Coder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Huynhkhue+%F0%9F%91%8B;Taoist+Priest+%7C+Coder;I+love+life+and+studying+code;Learning+every+day;Building+my+own+path" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Huynhkhue+%F0%9F%91%8B;Taoist+Priest+%7C+Coder;I+love+life+and+studying+code;Learning+every+day;Building+my+own+path;A+calm+mind+writes+better+code" alt="Typing SVG" />
 
 <br><br>
 
-<img src="./assets/banner.gif" width="88%" alt="Taoist Coder Banner" />
+<img src="./assets/banner.gif" width="90%" alt="Taoist Coder Banner" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### ✦ A calm mind writes better code ✦
+### ✦ Code with calm. Build with purpose. ✦
 
 </div>
 
