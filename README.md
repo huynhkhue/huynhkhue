@@ -8,49 +8,79 @@
 
 <img src="./assets/banner.gif" width="90%" alt="Taoist Coder Banner" />
 
+<br><br>
+
+### ✦ Code with calm. Build with purpose. ✦
+
 </div>
 
 ---
 
 <div align="center">
 
-### ✦ Code with calm. Build with purpose. ✦
+## ☯ About Me
+
+</div>
+
+```text
+Name      : Huynhkhue
+Role      : Taoist Priest | Learner | Coder
+Focus     : Researching, studying code, building step by step
+Mindset   : Calm, curious, consistent
+```
+
+<div align="center">
+
+I love life, enjoy researching, and love studying code.  
+I believe growth comes from patience, curiosity, and daily practice.
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Current Focus
+
+</div>
+
+<div align="center">
+
+`Programming` ✦ `Web Development` ✦ `Research` ✦ `Creative Projects`
 
 </div>
 
 <br>
 
-## About Me
-
-**Name:** Huynhkhue  
-**Role:** Taoist Priest | Learner | Coder  
-**Focus:** Researching, studying code, building step by step  
-**Mindset:** Calm, curious, consistent  
-
-I love life, enjoy researching, and love studying code.  
-I believe growth comes from patience, curiosity, and daily practice.
+```text
+> Learning programming step by step
+> Exploring web development
+> Building useful and creative projects
+> Improving through practice every day
+```
 
 ---
 
-## Current Focus
+<div align="center">
 
-- Learning programming step by step
-- Exploring web development
-- Building useful and creative projects
-- Improving through practice every day
+## ☯ Taoist Coder Philosophy
 
----
+</div>
 
-## Taoist Coder Philosophy
-
-> Stay calm.  
-> Keep learning.  
-> Debug the chaos.  
-> Build something meaningful.
+```text
+Stay calm.
+Keep learning.
+Debug the chaos.
+Build something meaningful.
+```
 
 ---
 
-## My Coding State
+<div align="center">
+
+## 💻 My Coding State
+
+</div>
 
 ```python
 class TaoistCoder:
@@ -70,17 +100,13 @@ print(me.practice())
 
 <div align="center">
 
-## Current Vibe
+## 🌌 Current Vibe
 
 `code` ✦ `focus` ✦ `discipline` ✦ `creativity` ✦ `growth`
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-## Thanks for visiting
+## ✨ Thanks for visiting
 
 Welcome to my digital space.  
 A place where code, curiosity, and creativity meet.
